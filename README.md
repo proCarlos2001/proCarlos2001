@@ -3,7 +3,7 @@
 </div>
 <img src=https://i.postimg.cc/qqpTWBJK/7.png)](https://postimg.cc/2b9MZDBj>
 
-[![Instagram](https://img.shields.io/twitch/status/aristidevs?style=social)](https://instagram.com/restrepo_ospino?igshid=OGQ5ZDc2ODk2ZA==)
+[![Instagram](https://img.shields.io/badge/Instagram-Online-green?style=social&logo=Instagram&label=Instagram&labelColor=green&color=white)](https://instagram.com/restrepo_ospino?igshid=OGQ5ZDc2ODk2ZA==)
 [![GitHub followers](https://img.shields.io/github/followers/proCarlos2001?label=GitHub&style=social)](https://github.com/proCarlos2001)
 
 ## Sobre mi
