@@ -1,9 +1,12 @@
 <div align="center">
 <h1 align="center">Hola, soy CarlosDevs</a> 👋</h1>
+<h5"center">Aprendiz en formación en el SENA 📚, en constante aprendizaje y desarrollo de habilidades en el campo de la tecnología y la programación. 🚀 Actualmente cursando [Análisis y Desarrollo de Software], 🌱 Apasionado por explorar nuevas tecnologías y herramientas en el mundo digital y listo para sumergirme en desafíos que me permitan crecer ⭐️.</h5>
 </div>
 <img src=https://i.postimg.cc/qqpTWBJK/7.png)](https://postimg.cc/2b9MZDBj>
 
+[![Facebook](https://img.shields.io/badge/Facebook-Online-green?style=social&logo=Facebook&label=Facebook&labelColor=green&color=white)](https://www.facebook.com/profile.php?id=100009397351239&locale=es_LA)
 [![Instagram](https://img.shields.io/badge/Instagram-Online-green?style=social&logo=Instagram&label=Instagram&labelColor=green&color=white)](https://instagram.com/restrepo_ospino?igshid=OGQ5ZDc2ODk2ZA==)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Online-green?style=social&logo=LinkedIn&label=LinkedIn)](www.linkedin.com/in/carlos-manuel-restrepo-ospino-005b96266)
 [![GitHub followers](https://img.shields.io/github/followers/proCarlos2001?label=GitHub&style=social)](https://github.com/proCarlos2001)
 
 ## Sobre mi
