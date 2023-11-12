@@ -6,7 +6,7 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-Online-green?style=social&logo=Facebook&label=Facebook&labelColor=green&color=white)](https://www.facebook.com/profile.php?id=100009397351239&locale=es_LA)
 [![Instagram](https://img.shields.io/badge/Instagram-Online-green?style=social&logo=Instagram&label=Instagram&labelColor=green&color=white)](https://instagram.com/restrepo_ospino?igshid=OGQ5ZDc2ODk2ZA==)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Online-green?style=social&logo=LinkedIn&label=LinkedIn)](www.linkedin.com/in/carlos-manuel-restrepo-ospino-005b96266)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Online-green?style=social&logo=LinkedIn&label=LinkedIn)](https://www.linkedin.com/in/carlos-manuel-restrepo-ospino-005b96266/)
 [![GitHub followers](https://img.shields.io/github/followers/proCarlos2001?label=GitHub&style=social)](https://github.com/proCarlos2001)
 
 ## Sobre mi
