@@ -1,6 +1,6 @@
 <div align="center">
-<h1 align="center">Hola, soy CarlosDevs</a> 👋</h1>
-<h5"center">Aprendiz en formación en el SENA 📚, en constante aprendizaje y desarrollo de habilidades en el campo de la tecnología y la programación. 🚀 Actualmente cursando [Análisis y Desarrollo de Software], 🌱 Apasionado por explorar nuevas tecnologías y herramientas en el mundo digital y listo para sumergirme en desafíos que me permitan crecer ⭐️.</h5>
+  <h1 align="center">Hola, soy Carlos Restrepo 👋</h1>
+  <h3 align="center">Desarrollador de Software | Backend | Análisis de Datos | IA</h3>
 </div>
 <img src=https://i.postimg.cc/qqpTWBJK/7.png)](https://postimg.cc/2b9MZDBj>
 
@@ -11,13 +11,16 @@
 
 ## Sobre mi
 
-- 📚 Estudiante 📚
-- 💻 Analisis y desarrollo de software 💻
-- 🚀 Experiencia en Desarrollo de aplicaciones Moviles 🚀
-- ✏️ Actualmente estoy trabajando en desarrollar un software para el "Agendamiento de citas Odontológicas" ✏️
-- 👨‍💻 Todos mis proyectos están disponibles en https://github.com/proCarlos2001
-- 📫 Cómo contactarme restrepoospino@gmail.com
-- 🤝 Siempre estoy dispuesto a colaboraciones y nuevas oportunidades de aprendizaje 🤝
+<br>
+
+Soy un **Desarrollador de Software** apasionado por construir soluciones robustas y eficientes. Mi experiencia se centra en el **desarrollo backend**, el **análisis de datos** y la implementación de modelos de **inteligencia artificial**. Me encanta transformar datos complejos en insights accionables y crear APIs que sirvan como la columna vertebral de aplicaciones modernas.
+
+- 🔭 Actualmente trabajo en proyectos que involucran arquitecturas de microservicios y pipelines de datos.
+- 🌱 Siempre estoy aprendiendo sobre MLOps, computación en la nube y nuevas arquitecturas de software.
+- 👯 Busco colaborar en proyectos de código abierto relacionados con datos o IA.
+- 📫 Cómo contactarme: **restrepoospino@gmail.com**
+- 📄 Conecta conmigo en [LinkedIn](https://www.linkedin.com/in/carlos-manuel-restrepo-ospino-005b96266/)
+
 <br>
 
 ## Vistas
