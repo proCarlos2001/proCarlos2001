@@ -30,27 +30,41 @@
 class CarlosRestrepo:
     def __init__(self):
         self.name = "Carlos Manuel Restrepo Ospino"
-        self.role = "Backend Developer & AI Engineer"
-        self.specialization = [
-            "🔧 Backend Architecture",
-            "📊 Data Science & Analytics", 
-            "🤖 Machine Learning & AI",
-            "☁️  Cloud Computing (Azure)",
-            "🏗️  Scalable System Design"
+        self.role = "Software Developer & AI Engineer"
+        self.location = "Cali, Valle del Cauca, Colombia"
+        self.education = [
+            "🎓 Tecnólogo en Análisis y Desarrollo de Software (SENA)",
+            "🎓 Diplomado en Programación Móvil (UNAL)"
         ]
+        self.specialization = [
+            "🔧 Backend Development (Python, Java, Kotlin)",
+            "📊 Data Science & Analytics", 
+            "🤖 Machine Learning & AI (TensorFlow, scikit-learn)",
+            "☁️  Cloud Computing (Azure, AWS)",
+            "💬 Chatbots & NLP (IBM Granite)",
+            "🏗️  ETL Pipelines & Data Processing"
+        ]
+        self.experience = "1+ año como Desarrollador Freelance"
         self.mindset = "Analytical, Creative, Results-Driven"
     
     def get_passion(self):
         return """
         Transformo datos complejos en insights accionables
-        y construyo sistemas backend robustos que escalan.
-        Mi pasión es resolver problemas complejos con
-        soluciones elegantes e innovadoras.
+        y construyo sistemas backend robustos con IA.
+        Especializado en soluciones de Machine Learning,
+        procesamiento de datos y chatbots inteligentes.
         """
     
     def current_focus(self):
-        return ["AI/ML Model Deployment", "Data Pipeline Optimization", 
-                "Cloud Architecture", "Advanced Analytics"]
+        return ["AI/ML Model Deployment", "ETL Pipeline Optimization", 
+                "Cloud Architecture", "Conversational AI"]
+    
+    def get_certifications(self):
+        return {
+            "IBM": ["AI Fundamentals", "ML with Python", "Data Visualization"],
+            "Azure": ["Data Science Bootcamp"],
+            "SENA": ["English Does Work (5 niveles)"]
+        }
 ```
 
 </td>
@@ -65,6 +79,91 @@ class CarlosRestrepo:
 </td>
 </tr>
 </table>
+
+---
+
+<div align="center">
+<h2>💼 Experiencia Laboral</h2>
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td width="100%">
+
+### 🚀 DESARROLLADOR FREELANCE
+**Colaborador Externo** | *Septiembre 2024 - Actualidad*
+
+📍 **Responsabilidades clave:**
+- 🤖 Desarrollo e implementación de soluciones de IA y ciencia de datos para proyectos empresariales
+- 💬 Especialización en modelos de lenguaje de gran escala (LLM) y procesamiento de datos
+- 🔄 Diseño y ejecución de pipelines ETL para transformación y análisis de datos empresariales
+- 📊 Implementación de modelos de Machine Learning para análisis predictivo y clasificación de datos
+- 🗣️ Desarrollo de chatbots y asistentes conversacionales con IA generativa y modelos IBM Granite
+- 📈 Procesamiento y visualización de datos con Python, pandas y matplotlib
+
+💡 **Tecnologías utilizadas:** Python, TensorFlow, scikit-learn, IBM Granite, pandas, NumPy, Azure, Docker, PostgreSQL
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<div align="center">
+<h2>🎓 Formación Académica</h2>
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 📚 Tecnólogo en Análisis y Desarrollo de Software
+**Servicio Nacional de Aprendizaje (SENA)**
+
+📅 *Marzo 2023 - Actualidad*
+
+🎯 **Estado:** En curso
+
+</td>
+<td align="center" width="50%">
+
+### 📱 Diplomado en Programación con Énfasis en Aplicaciones Móviles
+**Universidad Nacional de Colombia (UNAL)**
+
+📅 *Abril 2022 - Diciembre 2022*
+
+✅ **Estado:** Completado
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<div align="center">
+<h2>🌍 Idiomas</h2>
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/Español-Nativo-success?style=for-the-badge" /><br/>
+<strong>🇨🇴 Lengua Materna</strong><br/>
+<em>Dominio completo</em>
+</td>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/Inglés-A2-blue?style=for-the-badge" /><br/>
+<strong>🇬🇧 Intermedio</strong><br/>
+<em>English Does Work (SENA)</em>
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
@@ -102,46 +201,96 @@ class CarlosRestrepo:
 
 </div>
 
+### 🌐 Frameworks & Libraries
+<div align="center">
+
+![FastAPI](https://img.shields.io/badge/FastAPI-Professional-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=009688)
+![Flask](https://img.shields.io/badge/Flask-Advanced-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=000000)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Intermediate-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=6DB33F)
+![Android](https://img.shields.io/badge/Android-Professional-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=3DDC84)
+
+</div>
+
 ---
 
 <div align="center">
-<h2>🏆 Professional Certifications</h2>
+<h2>🏆 Certificaciones Profesionales</h2>
 </div>
 
+### 🎖️ IBM SkillsBuild (2025)
 <div align="center">
 <table>
 <tr>
-<td align="center" width="25%">
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px;">
-<img src="https://img.shields.io/badge/Azure-Data_Science-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /><br/>
-<strong>🔬 Bootcamp</strong><br/>
-<strong>Data Science</strong><br/>
-<em>Microsoft Azure</em>
-</div>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/IBM-AI_Fundamentals-0530AD?style=for-the-badge&logo=ibm&logoColor=white" /><br/>
+<strong>🤖 Fundamentos de</strong><br/>
+<strong>Inteligencia Artificial</strong>
 </td>
-<td align="center" width="25%">
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 10px;">
-<img src="https://img.shields.io/badge/AI-Fundamentals-FF6B6B?style=for-the-badge&logo=artificial-intelligence&logoColor=white" /><br/>
-<strong>🤖 Artificial</strong><br/>
-<strong>Intelligence</strong><br/>
-<em>Fundamentals</em>
-</div>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/IBM-ML_with_Python-0530AD?style=for-the-badge&logo=ibm&logoColor=white" /><br/>
+<strong>🧠 Machine Learning</strong><br/>
+<strong>with Python</strong>
 </td>
-<td align="center" width="25%">
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 10px;">
-<img src="https://img.shields.io/badge/Agile-Explorer-4ECDC4?style=for-the-badge&logo=agile&logoColor=white" /><br/>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/IBM-Data_Visualization-0530AD?style=for-the-badge&logo=ibm&logoColor=white" /><br/>
+<strong>📊 Data Visualization</strong><br/>
+<strong>with Python</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/IBM-Python_101-0530AD?style=for-the-badge&logo=ibm&logoColor=white" /><br/>
+<strong>🐍 Python 101</strong><br/>
+<strong>Data Science</strong>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/IBM-Data_Fundamentals-0530AD?style=for-the-badge&logo=ibm&logoColor=white" /><br/>
+<strong>📈 Data</strong><br/>
+<strong>Fundamentals</strong>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/IBM-Agile_Explorer-0530AD?style=for-the-badge&logo=ibm&logoColor=white" /><br/>
 <strong>⚡ Agile</strong><br/>
-<strong>Explorer</strong><br/>
-<em>Methodologies</em>
-</div>
+<strong>Explorer</strong>
 </td>
-<td align="center" width="25%">
-<div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 20px; border-radius: 10px;">
-<img src="https://img.shields.io/badge/Mobile-Development-25D366?style=for-the-badge&logo=android&logoColor=white" /><br/>
-<strong>📱 Mobile App</strong><br/>
-<strong>Development</strong><br/>
-<em>Android Specialist</em>
+</tr>
+</table>
 </div>
+
+### 🔬 Código Facilito (2024)
+<div align="center">
+<table>
+<tr>
+<td align="center" width="100%">
+<img src="https://img.shields.io/badge/Azure-Data_Science_Bootcamp-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /><br/>
+<strong>🎓 Bootcamp de Ciencia de Datos</strong><br/>
+<em>Microsoft Azure</em>
+</td>
+</tr>
+</table>
+</div>
+
+### 📚 SENA (2023)
+<div align="center">
+<table>
+<tr>
+<td align="center" width="100%">
+<img src="https://img.shields.io/badge/SENA-English_Does_Work-28A745?style=for-the-badge&logo=bookstack&logoColor=white" /><br/>
+<strong>🇬🇧 English Does Work</strong><br/>
+<em>Niveles 1-5 Completados</em>
+</td>
+</tr>
+</table>
+</div>
+
+### 🔬 UNAL (2021)
+<div align="center">
+<table>
+<tr>
+<td align="center" width="100%">
+<img src="https://img.shields.io/badge/UNAL-Nanotecnología-1ABC9C?style=for-the-badge&logo=atom&logoColor=white" /><br/>
+<strong>⚛️ Nanotecnología</strong><br/>
+<em>y Aplicaciones</em>
 </td>
 </tr>
 </table>
@@ -154,11 +303,71 @@ class CarlosRestrepo:
 </div>
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=proCarlos2001&layout=compact&langs_count=12&theme=radical&hide_border=true&card_width=400"/>
+<table>
+<tr>
+<td width="50%">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=proCarlos2001&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+</td>
+<td width="50%">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=proCarlos2001&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+</td>
+</tr>
+</table>
 </div>
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=proCarlos2001&theme=radical" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=proCarlos2001&theme=radical&hide_border=true&area=true" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+<h2>🔥 Proyectos Destacados</h2>
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Chatbot con IA Generativa
+**Asistente Conversacional Inteligente**
+- 🎯 Procesamiento de lenguaje natural avanzado
+- 🛠️ Tech: Python, IBM Granite, NLP
+- 📊 Resultado: Automatización de consultas empresariales
+
+</td>
+<td width="50%">
+
+### 📊 Pipeline ETL de Datos
+**Sistema de Transformación de Datos**
+- 🎯 Procesamiento y análisis de datos empresariales
+- 🛠️ Tech: Python, pandas, SQL, Azure
+- 📊 Resultado: Optimización de procesos de análisis
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧠 Modelo de Machine Learning
+**Análisis Predictivo y Clasificación**
+- 🎯 Predicción de patrones en datos empresariales
+- 🛠️ Tech: Python, TensorFlow, scikit-learn
+- 📊 Resultado: Mejora en toma de decisiones
+
+</td>
+<td width="50%">
+
+### 📱 Aplicación Móvil (Diplomado)
+**App Android con Kotlin**
+- 🎯 Desarrollo de aplicación móvil nativa
+- 🛠️ Tech: Kotlin, Android Studio, Firebase
+- 📊 Resultado: Proyecto final del diplomado UNAL
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
