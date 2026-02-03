@@ -158,7 +158,7 @@ class CarlosRestrepo:
 </td>
 <td align="center" width="50%">
 <img src="https://img.shields.io/badge/Inglés-A2-blue?style=for-the-badge" /><br/>
-<strong>🇬🇧 Intermedio</strong><br/>
+<strong>🇬🇧 Básico</strong><br/>
 <em>English Does Work (SENA)</em>
 </td>
 </tr>
