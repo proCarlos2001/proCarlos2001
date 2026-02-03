@@ -3,6 +3,11 @@
 </div>
 
 <div align="center">
+  <h1>👋 ¡Hola! Welcome to my GitHub Profile</h1>
+  <p><em>Hello! I'm Carlos, passionate about transforming data into intelligent solutions</em></p>
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=🚀+Transformando+datos+en+soluciones+inteligentes;🤖+Construyendo+el+futuro+con+IA+y+Machine+Learning;⚡+Backend+Developer+%7C+Data+Scientist+%7C+AI+Engineer;💡+Convirtiendo+ideas+complejas+en+código+elegante" alt="Typing SVG" />
 </div>
 
