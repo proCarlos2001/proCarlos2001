@@ -1,9 +1,9 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Carlos%20Manuel%20Restrepo&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20|%20AI%20Engineer%20|%20Data%20Scientist&descAlignY=55&descSize=18"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Carlos%20Manuel%20Restrepo&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%2FLLM%20Engineer%20|%20NLP%20%26%20GenAI%20|%20RAG%20%26%20Data%20Engineering&descAlignY=55&descSize=18"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=🚀+Transformando+datos+en+soluciones+inteligentes;🤖+Construyendo+el+futuro+con+IA+y+Machine+Learning;⚡+Backend+Developer+%7C+Data+Scientist+%7C+AI+Engineer;💡+Convirtiendo+ideas+complejas+en+código+elegante" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=%F0%9F%A4%96+Construyendo+soluciones+con+LLMs+y+GenAI;%F0%9F%94%8E+RAG%2C+embeddings+y+b%C3%BAsqueda+vectorial;%E2%9A%A1+AI+Engineer+%7C+NLP+%7C+Data+Engineer;%F0%9F%92%A1+OpenAI+%7C+Gemini%2FVertex+AI+%7C+Claude+API" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -30,27 +30,28 @@
 class CarlosRestrepo:
     def __init__(self):
         self.name = "Carlos Manuel Restrepo Ospino"
-        self.role = "Backend Developer & AI Engineer"
+        self.role = "AI/LLM Engineer & Data Specialist"
         self.specialization = [
-            "🔧 Backend Architecture",
-            "📊 Data Science & Analytics", 
-            "🤖 Machine Learning & AI",
-            "☁️  Cloud Computing (Azure)",
-            "🏗️  Scalable System Design"
+            "🤖 LLMs & Prompt Engineering",
+            "🧠 NLP (Natural Language Processing)",
+            "🔎 RAG Systems & Vector Search",
+            "📐 Embeddings & Semantic Retrieval",
+            "🔄 ETL & Data Pipelines",
+            "☁️  Cloud AI (Azure / Vertex AI)"
         ]
         self.mindset = "Analytical, Creative, Results-Driven"
     
     def get_passion(self):
         return """
-        Transformo datos complejos en insights accionables
-        y construyo sistemas backend robustos que escalan.
-        Mi pasión es resolver problemas complejos con
-        soluciones elegantes e innovadoras.
+        Diseño y despliego sistemas basados en LLMs (OpenAI, Gemini,
+        Claude) capaces de razonar sobre datos propios mediante RAG
+        y embeddings. Mi pasión es transformar datos complejos en
+        soluciones de IA generativa robustas y escalables.
         """
     
     def current_focus(self):
-        return ["AI/ML Model Deployment", "Data Pipeline Optimization", 
-                "Cloud Architecture", "Advanced Analytics"]
+        return ["LLM & GenAI API Integration", "RAG Pipelines & Vector DBs",
+                "ETL / Data Pipeline Engineering", "Model Deployment (Azure & Vertex AI)"]
 ```
 
 </td>
@@ -59,7 +60,7 @@ class CarlosRestrepo:
 <br/>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=proCarlos2001&theme=radical&hide_border=true" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=proCarlos2001&theme=radical&hide_border=true" width="100%"/>
 </div>
 
 </td>
@@ -72,33 +73,44 @@ class CarlosRestrepo:
 <h2>🚀 Core Technologies & Expertise</h2>
 </div>
 
-### 🔧 Backend Development
+### 🤖 LLMs & GenAI APIs
+<div align="center">
+
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-Advanced-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=412991)
+![Gemini](https://img.shields.io/badge/Gemini%20API-Advanced-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=8E75B2)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-Professional-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=4285F4)
+![Claude](https://img.shields.io/badge/Claude%20API-Advanced-D97757?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=D97757)
+
+</div>
+
+### 🔎 RAG, Embeddings & Vector Search
+<div align="center">
+
+![LangChain](https://img.shields.io/badge/LangChain-Professional-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=1C3C3C)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Intermediate-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=FFD21E)
+![Vector Databases](https://img.shields.io/badge/Vector%20DBs-Pinecone%20%7C%20Chroma%20%7C%20FAISS-6E56CF?style=for-the-badge&labelColor=6E56CF)
+![Qdrant](https://img.shields.io/badge/Qdrant-Intermediate-DC244C?style=for-the-badge&logo=qdrant&logoColor=white&labelColor=DC244C)
+
+</div>
+
+### 🔄 Data Engineering & Python
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
-![Java](https://img.shields.io/badge/Java-Advanced-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00)
-![Kotlin](https://img.shields.io/badge/Kotlin-Professional-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=7F52FF)
-![JavaScript](https://img.shields.io/badge/Node.js-Intermediate-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933)
-
-</div>
-
-### 🤖 AI & Data Science
-<div align="center">
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00)
 ![Pandas](https://img.shields.io/badge/Pandas-Expert-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458)
 ![NumPy](https://img.shields.io/badge/NumPy-Advanced-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Professional-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=F7931E)
+![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-Advanced-2E8555?style=for-the-badge&labelColor=2E8555)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Professional-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791)
 
 </div>
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud & MLOps
 <div align="center">
 
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-Certified-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=0078D4)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=4285F4)
 ![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED)
 ![Git](https://img.shields.io/badge/Git-Expert-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Professional-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791)
 
 </div>
 
@@ -111,7 +123,7 @@ class CarlosRestrepo:
 <div align="center">
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px;">
 <img src="https://img.shields.io/badge/Azure-Data_Science-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /><br/>
 <strong>🔬 Bootcamp</strong><br/>
@@ -119,7 +131,7 @@ class CarlosRestrepo:
 <em>Microsoft Azure</em>
 </div>
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 10px;">
 <img src="https://img.shields.io/badge/AI-Fundamentals-FF6B6B?style=for-the-badge&logo=artificial-intelligence&logoColor=white" /><br/>
 <strong>🤖 Artificial</strong><br/>
@@ -127,20 +139,12 @@ class CarlosRestrepo:
 <em>Fundamentals</em>
 </div>
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 10px;">
 <img src="https://img.shields.io/badge/Agile-Explorer-4ECDC4?style=for-the-badge&logo=agile&logoColor=white" /><br/>
 <strong>⚡ Agile</strong><br/>
 <strong>Explorer</strong><br/>
 <em>Methodologies</em>
-</div>
-</td>
-<td align="center" width="25%">
-<div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 20px; border-radius: 10px;">
-<img src="https://img.shields.io/badge/Mobile-Development-25D366?style=for-the-badge&logo=android&logoColor=white" /><br/>
-<strong>📱 Mobile App</strong><br/>
-<strong>Development</strong><br/>
-<em>Android Specialist</em>
 </div>
 </td>
 </tr>
@@ -170,26 +174,26 @@ class CarlosRestrepo:
 ```mermaid
 mindmap
   root((Carlos<br/>Restrepo))
-    Backend Engineering
-      API Design & Development
-      Microservices Architecture
-      Database Optimization
-      System Scalability
-    Data Science & AI
-      Machine Learning Models
-      Predictive Analytics
-      Data Pipeline Engineering
-      Statistical Analysis
-    Cloud Solutions
-      Azure Cloud Architecture
-      Serverless Computing
-      DevOps Automation
+    LLMs & GenAI
+      OpenAI API
+      Gemini API / Vertex AI
+      Claude API
+      Prompt Engineering
+    RAG & Vector Search
+      Embeddings
+      LangChain
+      Vector Databases
+      Semantic Search
+    Data Engineering
+      ETL Pipelines
+      Python & Pandas
+      SQL & PostgreSQL
+      Data Quality
+    Cloud & MLOps
+      Azure Cloud
+      Vertex AI
+      Docker
       CI/CD Pipelines
-    Innovation
-      AI-Powered Applications
-      Intelligent Automation
-      Research & Development
-      Open Source Contribution
 ```
 
 ---
@@ -218,9 +222,9 @@ mindmap
 *"Technology should not just solve today's problems, but anticipate tomorrow's opportunities."*
 
 **Focus:**
-- Cutting-edge solutions
-- Scalable architectures
-- Future-proof designs
+- LLM & GenAI solutions
+- Scalable RAG architectures
+- Future-proof AI pipelines
 - Continuous learning
 
 </td>
@@ -252,13 +256,13 @@ Carlos_Development_Setup:
   OS: "Windows 11"
   IDE: 
     Primary: "VS Code, Cursor"
-    Secondary: "IntelliJ IDEA, Android Studio"
+    Secondary: "IntelliJ IDEA"
   Terminal: "Windows Terminal with Oh My Posh"
   Version_Control: "Git with GitHub/GitLab"
-  Cloud_Platform: "Microsoft Azure / Google Cloud Platform"
-  Databases: "PostgreSQL, MySQL, MongoDB"
+  Cloud_Platform: "Microsoft Azure / Google Cloud (Vertex AI)"
+  Databases: "PostgreSQL, MySQL, Vector DBs (Pinecone, Chroma, FAISS, Qdrant)"
   Containers: "Docker & Docker Compose"
-  AI_ML_Stack: "Python, TensorFlow, Scikit-learn, Pandas"
+  AI_ML_Stack: "Python, OpenAI SDK, Google Gen AI SDK (Vertex AI), Anthropic SDK, LangChain, Pandas, Scikit-learn"
   Collaboration: "Slack, Microsoft Teams, Notion"
 ```
 
@@ -271,7 +275,7 @@ Carlos_Development_Setup:
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=1500&color=00D4FF&center=true&vCenter=true&width=1000&lines=🎯+Solving+complex+problems+with+elegant+solutions;📊+Transforming+raw+data+into+actionable+insights;🤖+Building+intelligent+systems+that+make+a+difference;⚡+Creating+scalable+architectures+for+tomorrow's+challenges;💡+Continuous+learning+and+pushing+technological+boundaries" alt="What Drives Me" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1500&color=00D4FF&center=true&vCenter=true&width=1000&lines=%F0%9F%8E%AF+Dise%C3%B1ando+sistemas+RAG+que+razonan+sobre+datos+reales;%F0%9F%93%8A+Transformando+datos+crudos+en+insights+accionables;%F0%9F%A4%96+Integrando+LLMs+(OpenAI%2C+Gemini%2C+Claude)+en+productos;%E2%9A%A1+Construyendo+pipelines+de+datos+escalables;%F0%9F%92%A1+Aprendizaje+continuo+en+IA+generativa" alt="What Drives Me" />
 </div>
 
 ---
@@ -284,7 +288,7 @@ Carlos_Development_Setup:
 
 ### 🚀 Ready for the next challenge?
 ### 💡 Have an innovative project idea?
-### 🎯 Looking for a dedicated backend developer?
+### 🎯 Looking for an AI/LLM engineer?
 
 <br/>
 
@@ -324,7 +328,7 @@ Carlos_Development_Setup:
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=proCarlos2001&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile views" />
 <br/><br/>
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=4000&pause=2000&color=888888&center=true&vCenter=true&width=600&lines=💻+Building+the+future+with+code%2C+data%2C+and+AI;🌟+Every+line+of+code+is+a+step+towards+innovation;🚀+Turning+complex+challenges+into+elegant+solutions" alt="Footer Quote" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=2000&color=888888&center=true&vCenter=true&width=600&lines=%F0%9F%A4%96+Building+the+future+with+LLMs%2C+RAG%2C+and+data;%F0%9F%8C%9F+Every+embedding+is+a+step+towards+smarter+AI;%F0%9F%9A%80+Turning+complex+data+challenges+into+GenAI+solutions" alt="Footer Quote" />
 </div>
 
 <div align="center">
