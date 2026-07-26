@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Carlos%20Manuel%20Restrepo&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%2FLLM%20Engineer%20|%20NLP%20%26%20GenAI%20|%20RAG%20%26%20Data%20Engineering&descAlignY=55&descSize=18"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Carlos%20Manuel%20Restrepo&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI-LLM%20Engineer%20-%20NLP%20and%20GenAI%20-%20RAG%20and%20Data%20Engineering&descAlignY=55&descSize=18"/>
 </div>
 
 <div align="center">
@@ -88,8 +88,8 @@ class CarlosRestrepo:
 
 ![LangChain](https://img.shields.io/badge/LangChain-Professional-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=1C3C3C)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Intermediate-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=FFD21E)
-![Vector Databases](https://img.shields.io/badge/Vector%20DBs-Pinecone%20%7C%20Chroma%20%7C%20FAISS-6E56CF?style=for-the-badge&labelColor=6E56CF)
-![Qdrant](https://img.shields.io/badge/Qdrant-Intermediate-DC244C?style=for-the-badge&logo=qdrant&logoColor=white&labelColor=DC244C)
+![MongoDB Vector Search](https://img.shields.io/badge/MongoDB%20Vector%20Search-Advanced-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248)
+![FAISS](https://img.shields.io/badge/FAISS-Intermediate-333333?style=for-the-badge&labelColor=333333)
 
 </div>
 
@@ -101,6 +101,7 @@ class CarlosRestrepo:
 ![NumPy](https://img.shields.io/badge/NumPy-Advanced-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243)
 ![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-Advanced-2E8555?style=for-the-badge&labelColor=2E8555)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Professional-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791)
+![MongoDB](https://img.shields.io/badge/MongoDB-Professional-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248)
 
 </div>
 
@@ -172,28 +173,45 @@ class CarlosRestrepo:
 </div>
 
 ```mermaid
-mindmap
-  root((Carlos<br/>Restrepo))
-    LLMs & GenAI
-      OpenAI API
-      Gemini API / Vertex AI
-      Claude API
-      Prompt Engineering
-    RAG & Vector Search
-      Embeddings
-      LangChain
-      Vector Databases
-      Semantic Search
-    Data Engineering
-      ETL Pipelines
-      Python & Pandas
-      SQL & PostgreSQL
-      Data Quality
-    Cloud & MLOps
-      Azure Cloud
-      Vertex AI
-      Docker
-      CI/CD Pipelines
+flowchart TD
+    ME(("🧑‍💻 Carlos<br/>Restrepo"))
+
+    subgraph S1["🤖 LLMs & GenAI"]
+        L0["APIs & Prompting"]
+        L0 --> L1["OpenAI API"]
+        L0 --> L2["Gemini API / Vertex AI"]
+        L0 --> L3["Claude API"]
+        L0 --> L4["Prompt Engineering"]
+    end
+
+    subgraph S2["🔎 RAG & Vector Search"]
+        R0["Retrieval"]
+        R0 --> R1["Embeddings"]
+        R0 --> R2["LangChain"]
+        R0 --> R3["MongoDB Vector Search"]
+        R0 --> R4["FAISS"]
+    end
+
+    subgraph S3["🔄 Data Engineering"]
+        D0["Pipelines"]
+        D0 --> D1["ETL Pipelines"]
+        D0 --> D2["Python & Pandas"]
+        D0 --> D3["SQL & PostgreSQL"]
+        D0 --> D4["MongoDB"]
+    end
+
+    subgraph S4["☁️ Cloud & MLOps"]
+        C0["Infra"]
+        C0 --> C1["Azure Cloud"]
+        C0 --> C2["Vertex AI"]
+        C0 --> C3["Docker"]
+        C0 --> C4["CI/CD Pipelines"]
+    end
+
+    ME --> L0
+    ME --> R0
+    ME --> D0
+    ME --> C0
 ```
 
 ---
@@ -260,7 +278,7 @@ Carlos_Development_Setup:
   Terminal: "Windows Terminal with Oh My Posh"
   Version_Control: "Git with GitHub/GitLab"
   Cloud_Platform: "Microsoft Azure / Google Cloud (Vertex AI)"
-  Databases: "PostgreSQL, MySQL, Vector DBs (Pinecone, Chroma, FAISS, Qdrant)"
+  Databases: "PostgreSQL, MongoDB, MongoDB Atlas Vector Search, FAISS"
   Containers: "Docker & Docker Compose"
   AI_ML_Stack: "Python, OpenAI SDK, Google Gen AI SDK (Vertex AI), Anthropic SDK, LangChain, Pandas, Scikit-learn"
   Collaboration: "Slack, Microsoft Teams, Notion"
